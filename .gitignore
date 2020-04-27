@@ -7,3 +7,9 @@ install_manifest.txt
 .idea
 .directory
 .vscode
+
+# Ignore pyc files
+*.pyc
+
+# Ignore temporal files from .deb generation
+*.ddeb
